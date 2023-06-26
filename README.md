@@ -1,4 +1,4 @@
-# Course Project: Non-ConvexOptimization
+# Course Presentation: Non-Convex Optimization
 
 # Course: Deep Learning, Boise State University
 
